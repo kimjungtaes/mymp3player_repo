@@ -1,3 +1,10 @@
+# MyMP3Player
+
+
+
+
+
+
 # mymp3player_repo
 new project
 MyMP3Player
@@ -9,4 +16,5 @@ viewBinding 진행한다
 ![0417 4](https://user-images.githubusercontent.com/126849371/232416630-baf7712c-28e1-49de-817d-52b31844accb.png)
 layout에서 필요한 XML을 생성하고 코드를 적는다
 ![0417 4](https://user-images.githubusercontent.com/126849371/232417110-4b5cd492-7886-414d-a5d7-06dde0cb3b52.png)
+
 
